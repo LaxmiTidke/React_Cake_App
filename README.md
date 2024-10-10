@@ -1,4 +1,4 @@
-# React_Cake_App
+# React_Cake_App  (https://cupcake-reactapp-laxmee.netlify.app/)
 CakeShoppie is a React-based web application designed for a delightful and interactive user experience. The application allows users to explore a selection of cupcakes with dynamic background changes based on the selected cupcake. The app is visually appealing and user-friendly, with a focus on an engaging and responsive UI.
 ## Features
 
