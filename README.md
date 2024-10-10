@@ -5,4 +5,3 @@ CakeShoppie is a React-based web application designed for a delightful and inter
 - **Dynamic Image Selection**: Users can click on different cupcake images to change the main display cupcake and the background colors accordingly.
 - **Interactive UI**: The background color of the page changes based on the selected cupcake, providing an immersive browsing experience.
 - **Responsive Design**: The layout adapts well to various screen sizes and ensures a consistent user experience.
-- **Navbar Integration**: A navigation bar component is integrated into the app for smooth transitions between different sections of the website.
